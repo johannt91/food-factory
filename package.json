@@ -20,11 +20,14 @@
   },
   "homepage": "https://github.com/johannt91/food-factory#readme",
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^5.32.0",
+    "webpack-bundle-analyzer": "^4.4.1",
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
+    "image-webpack-loader": "^7.0.1",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1"
   }
